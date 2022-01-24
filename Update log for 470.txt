@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Update log for 470
 
 Completed M001 - MongoDB BasicsCompleted M001 - MongoDB Basics
-=======
-Update log for 470
->>>>>>> 985858e1f1beb9ced9c649f192cec097e44a0f97
+
